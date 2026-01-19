@@ -52,6 +52,15 @@ Admittedly, this is not an elegant solution. If you are aware of a more robust o
 
 
 
+If you find this code useful in your research, please consider citing our paper:
+
+> Lyu X, Xu K, Yu Z, et al.  
+> *An Optimized Physically Recurrent Neural Network for Multiscale Modeling of Composite Materials*.  
+> International Journal of Mechanical Sciences, 2025, 111030.
+
+
+
+
 ### Remarks
 
 This repository currently provides the **core implementation for optimizing PRNNs** as presented in the paper
